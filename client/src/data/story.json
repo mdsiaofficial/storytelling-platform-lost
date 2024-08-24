@@ -1,0 +1,1050 @@
+[
+  {
+    "id": 1,
+    "text": "You are an adventurer searching for hidden treasure in a mysterious jungle. After days of traveling, you arrive at a fork in the road.",
+    "choices": [
+      { "text": "Take the left path", "next": 2 },
+      { "text": "Take the right path", "next": 3 }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "You venture deeper into the jungle, where the sounds of wild animals grow louder. After an hour, you find a hidden cave filled with ancient artifacts.",
+    "choices": [
+      { "text": "Explore the cave", "next": 4 },
+      { "text": "Leave the cave", "next": 5 }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "You follow the river and find a village of friendly locals who offer you food and shelter. They tell you about a nearby treasure.",
+    "choices": [
+      { "text": "Stay with the locals", "next": 6 },
+      { "text": "Leave the village", "next": 7 }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Inside the cave, you discover a treasure chest. It’s locked! Do you want to try to open it or search for a key?",
+    "choices": [
+      { "text": "Try to open the chest", "next": 8 },
+      { "text": "Search for a key", "next": 9 }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "As you leave the cave, you encounter a wild animal. It looks hungry. Do you run or try to scare it away?",
+    "choices": [
+      { "text": "Run away", "next": 10 },
+      { "text": "Scare it away", "next": 11 }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "The locals share stories of a legendary treasure nearby. They offer to guide you. Do you accept their help?",
+    "choices": [
+      { "text": "Accept their help", "next": 12 },
+      { "text": "Decline and go alone", "next": 13 }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "You decide to leave the village and continue your search. You come across a strange marking on a tree. Investigate or ignore?",
+    "choices": [
+      { "text": "Investigate the marking", "next": 14 },
+      { "text": "Ignore it", "next": 15 }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "You manage to open the chest! Inside, you find gold coins and a mysterious map. What will you do next?",
+    "choices": [
+      { "text": "Follow the map", "next": 16 },
+      { "text": "Take the treasure back to the village", "next": 17 }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "You find a rusty key hidden behind some rocks. It might open the chest! Return to the cave?",
+    "choices": [
+      { "text": "Return to the cave", "next": 4 },
+      { "text": "Keep exploring", "next": 18 }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "You run as fast as you can and manage to escape. However, you feel lost now. Do you want to find a new path or rest?",
+    "choices": [
+      { "text": "Find a new path", "next": 19 },
+      { "text": "Rest for a while", "next": 20 }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "You scare the animal away! Feeling brave, you continue on your journey. You discover a hidden waterfall. Explore or leave?",
+    "choices": [
+      { "text": "Explore the waterfall", "next": 21 },
+      { "text": "Leave it alone", "next": 22 }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "With the locals' guidance, you find a secret entrance to a cave filled with treasures. Do you want to enter?",
+    "choices": [
+      { "text": "Enter the cave", "next": 23 },
+      { "text": "Stay outside", "next": 24 }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Going alone, you stumble upon a hidden path that leads you to an ancient ruin. Investigate or move on?",
+    "choices": [
+      { "text": "Investigate the ruins", "next": 25 },
+      { "text": "Move on", "next": 26 }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "The marking leads you to a hidden treasure site. Dig or look for tools first?",
+    "choices": [
+      { "text": "Dig immediately", "next": 27 },
+      { "text": "Look for tools", "next": 28 }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Ignoring the marking, you wander deeper into the jungle and get lost. Do you want to try to find your way back or climb a tree?",
+    "choices": [
+      { "text": "Try to find your way back", "next": 29 },
+      { "text": "Climb a tree", "next": 30 }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Following the map, you arrive at a hidden lagoon. Something glimmers in the water. Dive in or stay on shore?",
+    "choices": [
+      { "text": "Dive in", "next": 31 },
+      { "text": "Stay on shore", "next": 32 }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "You return to the village with your treasure. The locals celebrate you as a hero. Do you share your treasure or keep it all?",
+    "choices": [
+      { "text": "Share the treasure", "next": 33 },
+      { "text": "Keep it all", "next": 34 }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "You keep exploring and find an abandoned camp. Search it or set up camp for the night?",
+    "choices": [
+      { "text": "Search the camp", "next": 35 },
+      { "text": "Set up camp", "next": 36 }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Finding a new path, you discover a hidden valley. It looks beautiful but eerie. Explore or leave?",
+    "choices": [
+      { "text": "Explore the valley", "next": 37 },
+      { "text": "Leave", "next": 38 }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "You rest for a while, gathering your thoughts. Feeling refreshed, you decide to continue. What direction do you take?",
+    "choices": [
+      { "text": "Head north", "next": 39 },
+      { "text": "Head south", "next": 40 }
+    ]
+  },
+  {
+    "id": 41,
+    "text": "Choosing to head north, you encounter a mystical creature. It offers you a choice: wealth or wisdom?",
+    "choices": [
+      { "text": "Choose wealth", "next": 42 },
+      { "text": "Choose wisdom", "next": 43 }
+    ]
+  },
+  {
+    "id": 42,
+    "text": "You receive a bag of gold coins but it draws the attention of bandits. Do you fight or flee?",
+    "choices": [
+      { "text": "Fight the bandits", "next": 44 },
+      { "text": "Flee into the jungle", "next": 45 }
+    ]
+  },
+  {
+    "id": 43,
+    "text": "The creature shares ancient knowledge with you. You feel enlightened. Do you share this wisdom or keep it to yourself?",
+    "choices": [
+      { "text": "Share it", "next": 46 },
+      { "text": "Keep it secret", "next": 47 }
+    ]
+  },
+  {
+    "id": 44,
+    "text": "You bravely confront the bandits! After a fierce battle, you emerge victorious. What will you do with your spoils?",
+    "choices": [
+      { "text": "Use it for good", "next": 48 },
+      { "text": "Keep it all", "next": 49 }
+    ]
+  },
+  {
+    "id": 45,
+    "text": "You escape but lose your way. You find a hidden temple. Enter or search for help?",
+    "choices": [
+      { "text": "Enter the temple", "next": 50 },
+      { "text": "Search for help", "next": 51 }
+    ]
+  },
+  {
+    "id": 46,
+    "text": "You share your wisdom with the villagers. They honor you as a sage. Do you stay or leave?",
+    "choices": [
+      { "text": "Stay as their sage", "next": 52 },
+      { "text": "Continue your journey", "next": 53 }
+    ]
+  },
+  {
+    "id": 47,
+    "text": "Keeping the knowledge to yourself, you feel isolated. One day, you meet a traveler. Do you share your secret?",
+    "choices": [
+      { "text": "Share it", "next": 54 },
+      { "text": "Stay silent", "next": 55 }
+    ]
+  },
+  {
+    "id": 48,
+    "text": "Using your spoils for good, you help rebuild the village. The villagers are grateful. Do you settle down or continue adventuring?",
+    "choices": [
+      { "text": "Settle down", "next": 56 },
+      { "text": "Continue adventuring", "next": 57 }
+    ]
+  },
+  {
+    "id": 49,
+    "text": "You keep the spoils for yourself, but you feel a growing emptiness. Do you seek companionship or stay alone?",
+    "choices": [
+      { "text": "Seek companionship", "next": 58 },
+      { "text": "Stay alone", "next": 59 }
+    ]
+  },
+  {
+    "id": 50,
+    "text": "Inside the temple, you find ancient carvings that tell the story of a lost civilization. Do you study them or move deeper?",
+    "choices": [
+      { "text": "Study the carvings", "next": 60 },
+      { "text": "Move deeper into the temple", "next": 61 }
+    ]
+  },
+  {
+    "id": 51,
+    "text": "You search for help and meet a wise old man who offers to guide you. Do you accept his help?",
+    "choices": [
+      { "text": "Accept his help", "next": 62 },
+      { "text": "Refuse and go alone", "next": 63 }
+    ]
+  },
+  {
+    "id": 52,
+    "text": "As a sage, you help the villagers thrive. But the call of adventure still beckons. Do you stay or embark on a new quest?",
+    "choices": [
+      { "text": "Stay and teach", "next": 64 },
+      { "text": "Embark on a new quest", "next": 65 }
+    ]
+  },
+  {
+    "id": 53,
+    "text": "You leave the village, carrying your knowledge. You come across a crossroads. Choose a path or wander aimlessly?",
+    "choices": [
+      { "text": "Choose a path", "next": 66 },
+      { "text": "Wander aimlessly", "next": 67 }
+    ]
+  },
+  {
+    "id": 54,
+    "text": "You share your secret with the traveler, who turns out to be a spy. He offers you a choice: join him or escape?",
+    "choices": [
+      { "text": "Join the spy", "next": 68 },
+      { "text": "Escape", "next": 69 }
+    ]
+  },
+  {
+    "id": 55,
+    "text": "You stay silent, but the traveler leaves disappointed. You feel the weight of your secret. Do you regret it or move on?",
+    "choices": [
+      { "text": "Regret your choice", "next": 70 },
+      { "text": "Move on", "next": 71 }
+    ]
+  },
+  {
+    "id": 56,
+    "text": "Settling down, you find peace but long for excitement. Do you teach the local children or explore nearby lands?",
+    "choices": [
+      { "text": "Teach the children", "next": 72 },
+      { "text": "Explore nearby lands", "next": 73 }
+    ]
+  },
+  {
+    "id": 57,
+    "text": "You continue adventuring, seeking new treasures. You come across a legendary beast. Fight or befriend it?",
+    "choices": [
+      { "text": "Fight the beast", "next": 74 },
+      { "text": "Befriend the beast", "next": 75 }
+    ]
+  },
+  {
+    "id": 58,
+    "text": "You seek companionship and find a loyal friend. Together, you embark on new adventures. Do you go to the mountains or the sea?",
+    "choices": [
+      { "text": "Go to the mountains", "next": 76 },
+      { "text": "Go to the sea", "next": 77 }
+    ]
+  },
+  {
+    "id": 59,
+    "text": "Staying alone, you ponder your choices. You hear whispers of a powerful artifact. Investigate or ignore?",
+    "choices": [
+      { "text": "Investigate the whispers", "next": 78 },
+      { "text": "Ignore them", "next": 79 }
+    ]
+  },
+  {
+    "id": 60,
+    "text": "Studying the carvings reveals secrets of the lost civilization's treasure. Do you take this knowledge to the outside world?",
+    "choices": [
+      { "text": "Take it to the world", "next": 80 },
+      { "text": "Keep it hidden", "next": 81 }
+    ]
+  },
+  {
+    "id": 61,
+    "text": "Moving deeper, you find a hidden chamber filled with golden artifacts. Do you take some or leave them?",
+    "choices": [
+      { "text": "Take some artifacts", "next": 82 },
+      { "text": "Leave them untouched", "next": 83 }
+    ]
+  },
+  {
+    "id": 62,
+    "text": "Accepting his help, you discover a path back to safety. Do you return home or explore with him?",
+    "choices": [
+      { "text": "Return home", "next": 84 },
+      { "text": "Explore with him", "next": 85 }
+    ]
+  },
+  {
+    "id": 63,
+    "text": "Refusing his help, you venture further into the unknown. You find a hidden valley. Explore or leave?",
+    "choices": [
+      { "text": "Explore the valley", "next": 86 },
+      { "text": "Leave", "next": 87 }
+    ]
+  },
+  {
+    "id": 64,
+    "text": "As a teacher, you find fulfillment but miss the thrill of adventure. Do you stay or plan a secret journey?",
+    "choices": [
+      { "text": "Stay as a teacher", "next": 88 },
+      { "text": "Plan a secret journey", "next": 89 }
+    ]
+  },
+  {
+    "id": 65,
+    "text": "Embarking on a new quest, you hear tales of a mysterious island. Do you seek it out or avoid it?",
+    "choices": [
+      { "text": "Seek the island", "next": 90 },
+      { "text": "Avoid it", "next": 91 }
+    ]
+  },
+  {
+    "id": 66,
+    "text": "Choosing a path, you find a hidden cave. Enter or continue on the trail?",
+    "choices": [
+      { "text": "Enter the cave", "next": 92 },
+      { "text": "Continue on the trail", "next": 93 }
+    ]
+  },
+  {
+    "id": 67,
+    "text": "Wandering aimlessly, you stumble upon an ancient ruin. Investigate or move on?",
+    "choices": [
+      { "text": "Investigate the ruins", "next": 94 },
+      { "text": "Move on", "next": 95 }
+    ]
+  },
+  {
+    "id": 68,
+    "text": "Joining the spy leads you into a world of intrigue. Help him with a mission or betray him?",
+    "choices": [
+      { "text": "Help the spy", "next": 96 },
+      { "text": "Betray him", "next": 97 }
+    ]
+  },
+  {
+    "id": 69,
+    "text": "You escape and find yourself in a dark forest. Do you seek shelter or keep moving?",
+    "choices": [
+      { "text": "Seek shelter", "next": 98 },
+      { "text": "Keep moving", "next": 99 }
+    ]
+  },
+  {
+    "id": 70,
+    "text": "Regretting your choice, you decide to seek out new friendships. Do you visit a nearby village or stay in solitude?",
+    "choices": [
+      { "text": "Visit the village", "next": 100 },
+      { "text": "Stay in solitude", "next": 101 }
+    ]
+  },
+  {
+    "id": 71,
+    "text": "Moving on, you encounter a merchant who offers rare items. Do you trade or ignore him?",
+    "choices": [
+      { "text": "Trade with the merchant", "next": 102 },
+      { "text": "Ignore him", "next": 103 }
+    ]
+  },
+  {
+    "id": 72,
+    "text": "Teaching the children brings you joy. They idolize you. Do you stay forever or eventually leave?",
+    "choices": [
+      { "text": "Stay forever", "next": 104 },
+      { "text": "Eventually leave", "next": 105 }
+    ]
+  },
+  {
+    "id": 73,
+    "text": "Exploring nearby lands, you uncover hidden treasures. Do you keep them or share with the villagers?",
+    "choices": [
+      { "text": "Keep them", "next": 106 },
+      { "text": "Share with villagers", "next": 107 }
+    ]
+  },
+  {
+    "id": 74,
+    "text": "Fighting the beast, you unleash your courage. After a fierce battle, you stand victorious. What now?",
+    "choices": [
+      { "text": "Claim its treasure", "next": 108 },
+      { "text": "Leave it be", "next": 109 }
+    ]
+  },
+  {
+    "id": 75,
+    "text": "Befriending the beast, you gain a powerful ally. Together, you explore unknown lands. Do you seek adventure or rest?",
+    "choices": [
+      { "text": "Seek adventure", "next": 110 },
+      { "text": "Rest for a while", "next": 111 }
+    ]
+  },
+  {
+    "id": 76,
+    "text": "In the mountains, you discover hidden caves. Do you explore the caves or enjoy the view?",
+    "choices": [
+      { "text": "Explore the caves", "next": 112 },
+      { "text": "Enjoy the view", "next": 113 }
+    ]
+  },
+  {
+    "id": 77,
+    "text": "By the sea, you find an abandoned ship. Do you investigate or leave it alone?",
+    "choices": [
+      { "text": "Investigate the ship", "next": 114 },
+      { "text": "Leave it alone", "next": 115 }
+    ]
+  },
+  {
+    "id": 78,
+    "text": "Investigating the whispers, you discover a hidden treasure map. Do you follow it or keep it safe?",
+    "choices": [
+      { "text": "Follow the map", "next": 116 },
+      { "text": "Keep it safe", "next": 117 }
+    ]
+  },
+  {
+    "id": 79,
+    "text": "Ignoring the whispers, you feel a sense of loss. You decide to explore the surrounding area. What do you find?",
+    "choices": [
+      { "text": "Find a hidden cave", "next": 118 },
+      { "text": "Stumble upon a village", "next": 119 }
+    ]
+  },
+  {
+    "id": 80,
+    "text": "Taking your knowledge to the world, you gain fame. Do you use it for good or seek power?",
+    "choices": [
+      { "text": "Use it for good", "next": 120 },
+      { "text": "Seek power", "next": 121 }
+    ]
+  },
+  {
+    "id": 81,
+    "text": "Keeping it hidden, you feel the weight of your secret. Do you tell someone or carry it alone?",
+    "choices": [
+      { "text": "Tell someone", "next": 122 },
+      { "text": "Carry it alone", "next": 123 }
+    ]
+  },
+  {
+    "id": 82,
+    "text": "Taking some artifacts, you feel a strange energy. Do you use this energy or study it?",
+    "choices": [
+      { "text": "Use the energy", "next": 124 },
+      { "text": "Study it", "next": 125 }
+    ]
+  },
+  {
+    "id": 83,
+    "text": "Leaving them untouched, you feel a sense of peace. Do you leave the temple or explore more?",
+    "choices": [
+      { "text": "Leave the temple", "next": 126 },
+      { "text": "Explore more", "next": 127 }
+    ]
+  },
+  {
+    "id": 84,
+    "text": "Returning home, you find solace. Do you settle in for good or keep your adventurous spirit alive?",
+    "choices": [
+      { "text": "Settle in", "next": 128 },
+      { "text": "Keep your spirit alive", "next": 129 }
+    ]
+  },
+  {
+    "id": 85,
+    "text": "Exploring with him, you find hidden secrets. Do you trust him completely or remain cautious?",
+    "choices": [
+      { "text": "Trust him completely", "next": 130 },
+      { "text": "Remain cautious", "next": 131 }
+    ]
+  },
+  {
+    "id": 86,
+    "text": "Exploring the valley, you discover a hidden waterfall. Do you swim in it or rest nearby?",
+    "choices": [
+      { "text": "Swim in the waterfall", "next": 132 },
+      { "text": "Rest nearby", "next": 133 }
+    ]
+  },
+  {
+    "id": 87,
+    "text": "Leaving the valley, you find a path leading to a mountain. Do you climb it or walk around?",
+    "choices": [
+      { "text": "Climb the mountain", "next": 134 },
+      { "text": "Walk around", "next": 135 }
+    ]
+  },
+  {
+    "id": 88,
+    "text": "Staying as a teacher, you find fulfillment. But do you ever miss adventure?",
+    "choices": [
+      { "text": "Yes, I miss it", "next": 136 },
+      { "text": "No, I love teaching", "next": 137 }
+    ]
+  },
+  {
+    "id": 89,
+    "text": "Planning a secret journey, you gather supplies. What will you seek this time?",
+    "choices": [
+      { "text": "Seek treasure", "next": 138 },
+      { "text": "Seek knowledge", "next": 139 }
+    ]
+  },
+  {
+    "id": 90,
+    "text": "Seeking the island, you face storms at sea. Do you navigate through or find shelter?",
+    "choices": [
+      { "text": "Navigate through", "next": 140 },
+      { "text": "Find shelter", "next": 141 }
+    ]
+  },
+  {
+    "id": 91,
+    "text": "Avoiding the island, you find a safe harbor. Do you rest or explore the harbor?",
+    "choices": [
+      { "text": "Rest", "next": 142 },
+      { "text": "Explore the harbor", "next": 143 }
+    ]
+  },
+  {
+    "id": 94,
+    "text": "Investigating the ruins, you find clues about an ancient civilization. Do you follow the clues or document them?",
+    "choices": [
+      { "text": "Follow the clues", "next": 144 },
+      { "text": "Document them", "next": 145 }
+    ]
+  },
+  {
+    "id": 95,
+    "text": "Moving on, you find a path leading to an ancient city. Do you enter or keep walking?",
+    "choices": [
+      { "text": "Enter the city", "next": 146 },
+      { "text": "Keep walking", "next": 147 }
+    ]
+  },
+  {
+    "id": 1,
+    "text": "You are an adventurer searching for hidden treasure in a mysterious jungle. After days of traveling, you arrive at a fork in the road.",
+    "choices": [
+      { "text": "Take the left path", "next": 2 },
+      { "text": "Take the right path", "next": 3 }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "You venture deeper into the jungle, where the sounds of wild animals grow louder. After an hour, you find a hidden cave filled with ancient artifacts.",
+    "choices": [
+      { "text": "Explore the cave", "next": 4 },
+      { "text": "Leave the cave", "next": 5 }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "You follow the river and find a village of friendly locals who offer you food and shelter. They tell you about a nearby treasure.",
+    "choices": [
+      { "text": "Stay with the locals", "next": 6 },
+      { "text": "Leave the village", "next": 7 }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Inside the cave, you see a pile of shimmering gold coins guarded by a massive stone statue. What will you do?",
+    "choices": [
+      { "text": "Take the treasure", "next": 8 },
+      { "text": "Search for a way to break the curse", "next": 9 }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "You decide it's best to leave the cave, realizing some treasures are better left untouched. As you exit, you notice a strange glow in the distance.",
+    "choices": [
+      { "text": "Investigate the glow", "next": 21 },
+      { "text": "Return to the fork in the road", "next": 1 }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "The villagers teach you about the jungle and its secrets. You form a bond and decide to seek the treasure together.",
+    "choices": [
+      { "text": "Search for the treasure with the villagers", "next": 10 },
+      { "text": "Leave the village alone", "next": 7 }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "You continue on your own, leaving the village behind. The jungle becomes more challenging, but your resolve strengthens.",
+    "choices": [
+      { "text": "Press on through the jungle", "next": 11 },
+      { "text": "Look for another path", "next": 22 }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "You grab a golden idol, but the ground shakes as the statue awakens. You must escape the cave!",
+    "choices": [
+      { "text": "Run for the exit", "next": 12 },
+      { "text": "Try to calm the statue", "next": 23 }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "You find a mystical artifact that may break the curse. After reciting an incantation, the statue freezes.",
+    "choices": [
+      { "text": "Take some treasure", "next": 13 },
+      { "text": "Leave the treasure behind", "next": 14 }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "With the villagers' help, you navigate the jungle and find the treasure, but choose to respect their wishes.",
+    "choices": [
+      { "text": "Return home with stories", "next": 15 },
+      { "text": "Help the villagers build a shrine for the treasure", "next": 24 }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Your journey alone is tough, but you finally discover the treasure. However, you feel the weight of your solitude.",
+    "choices": [
+      { "text": "Take the treasure", "next": 16 },
+      { "text": "Leave it behind", "next": 17 }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "You sprint towards the entrance, solving puzzles along the way. You escape just in time, clutching a small gem.",
+    "choices": [
+      { "text": "Reflect on your adventure", "next": 18 },
+      { "text": "Plan your next journey", "next": 25 }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "You take a few coins and artifacts, feeling a sense of responsibility as you leave the cave.",
+    "choices": [
+      { "text": "Share your story with others", "next": 19 },
+      { "text": "Use the treasure to help those in need", "next": 26 }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "You leave the treasure untouched, honoring the past and the spirits of the jungle.",
+    "choices": [
+      { "text": "Return home enriched", "next": 20 },
+      { "text": "Explore the jungle further", "next": 27 }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "You return home with tales of friendship and adventure, knowing you did the right thing.",
+    "choices": [
+      { "text": "End of story", "next": null }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "You take the treasure, but realize the journey has changed you. You head home with mixed feelings.",
+    "choices": [
+      { "text": "End of story", "next": null }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "You leave the treasure behind, understanding that the true wealth lies in experiences and connections.",
+    "choices": [
+      { "text": "End of story", "next": null }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "You reflect on the thrill of adventure and the lessons learned. The true treasure was the journey itself.",
+    "choices": [
+      { "text": "End of story", "next": null }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "You share your tales of the adventure and the respect you learned for the land and its people.",
+    "choices": [
+      { "text": "End of story", "next": null }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "You return home with wisdom and a deeper understanding of the world, enriched by your journey.",
+    "choices": [
+      { "text": "End of story", "next": null }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "You approach the source of the glow and discover a hidden chamber filled with ancient scrolls and relics.",
+    "choices": [
+      { "text": "Examine the scrolls", "next": 28 },
+      { "text": "Take a relic and leave", "next": 29 }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "You find a narrow, overgrown path that leads to a secret waterfall. The sound of rushing water is inviting.",
+    "choices": [
+      { "text": "Explore the waterfall", "next": 30 },
+      { "text": "Turn back to the main path", "next": 7 }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "You attempt to communicate with the statue, reciting ancient words of respect. Surprisingly, it calms down.",
+    "choices": [
+      { "text": "Ask the statue for guidance", "next": 31 },
+      { "text": "Back away slowly", "next": 12 }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "You help the villagers build a shrine to honor the treasure, fostering a sense of community and respect for their heritage.",
+    "choices": [
+      { "text": "Celebrate with the villagers", "next": 32 },
+      { "text": "Return home with newfound friends", "next": 15 }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "You plan your next journey, eager to explore more of the world and share your experiences.",
+    "choices": [
+      { "text": "Gather supplies for your next adventure", "next": 33 },
+      { "text": "Rest and reflect before setting off", "next": 34 }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "You use the treasure to help those in need, sharing your wealth and stories with the community.",
+    "choices": [
+      { "text": "Transform lives with your generosity", "next": 35 },
+      { "text": "Return to the jungle to help more", "next": 36 }
+    ]
+  },
+  {
+    "id": 27,
+    "text": "You decide to explore deeper into the jungle, seeking more adventures and hidden secrets.",
+    "choices": [
+      { "text": "Follow a mysterious sound", "next": 37 },
+      { "text": "Climb a tall tree for a better view", "next": 38 }
+    ]
+  },
+  {
+    "id": 28,
+    "text": "The scrolls contain knowledge of ancient civilizations and their connection to the jungle's spirits.",
+    "choices": [
+      { "text": "Take a scroll to study later", "next": 39 },
+      { "text": "Leave the scrolls untouched", "next": 40 }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "You take a relic, feeling its power resonate with you. As you leave, you hear whispers of gratitude.",
+    "choices": [
+      { "text": "Seek more relics in the jungle", "next": 41 },
+      { "text": "Return home with the relic", "next": 42 }
+    ]
+  },
+  {
+    "id": 30,
+    "text": "At the waterfall, you discover a hidden cave behind the cascading water, filled with sparkling crystals.",
+    "choices": [
+      { "text": "Explore the cave", "next": 43 },
+      { "text": "Take a moment to enjoy the view", "next": 44 }
+    ]
+  },
+  {
+    "id": 31,
+    "text": "The statue shares ancient wisdom, revealing secrets about the jungle and its hidden treasures.",
+    "choices": [
+      { "text": "Follow the statue's guidance", "next": 45 },
+      { "text": "Thank the statue and leave", "next": 12 }
+    ]
+  },
+  {
+    "id": 32,
+    "text": "You celebrate with the villagers, sharing stories and laughter, deepening your bond with them.",
+    "choices": [
+      { "text": "Stay longer with the villagers", "next": 6 },
+      { "text": "Return home inspired", "next": 15 }
+    ]
+  },
+  {
+    "id": 33,
+    "text": "You gather supplies and set out on your next adventure, ready to face whatever comes your way.",
+    "choices": [
+      { "text": "Explore uncharted territories", "next": 46 },
+      { "text": "Seek out other adventurers", "next": 47 }
+    ]
+  },
+  {
+    "id": 34,
+    "text": "You take time to reflect on your journey, writing down your experiences and lessons learned.",
+    "choices": [
+      { "text": "Share your writings with others", "next": 48 },
+      { "text": "Plan a new route for your next adventure", "next": 49 }
+    ]
+  },
+  {
+    "id": 35,
+    "text": "Your generosity transforms lives, and you become a beloved figure in the community.",
+    "choices": [
+      { "text": "Stay and help the community grow", "next": 50 },
+      { "text": "Journey back to the jungle for more adventures", "next": 36 }
+    ]
+  },
+  {
+    "id": 36,
+    "text": "You return to the jungle, seeking more treasures and experiences to share.",
+    "choices": [
+      { "text": "Follow a new path", "next": 51 },
+      { "text": "Visit the village again", "next": 6 }
+    ]
+  },
+  {
+    "id": 37,
+    "text": "You follow the mysterious sound, discovering a hidden grove filled with magical creatures.",
+    "choices": [
+      { "text": "Interact with the creatures", "next": 52 },
+      { "text": "Observe from a distance", "next": 53 }
+    ]
+  },
+  {
+    "id": 38,
+    "text": "Climbing the tree gives you a breathtaking view of the jungle, revealing paths you had not seen.",
+    "choices": [
+      { "text": "Choose a new path to explore", "next": 54 },
+      { "text": "Climb down and continue exploring", "next": 55 }
+    ]
+  },
+  {
+    "id": 39,
+    "text": "You take a scroll and feel its weight, knowing it holds secrets that could change your understanding of the jungle.",
+    "choices": [
+      { "text": "Study it at home", "next": 56 },
+      { "text": "Share it with the villagers", "next": 57 }
+    ]
+  },
+  {
+    "id": 40,
+    "text": "You leave the scrolls untouched, respecting the knowledge they hold and the spirits of the jungle.",
+    "choices": [
+      { "text": "Continue your journey", "next": 58 }
+    ]
+  },
+  {
+    "id": 41,
+    "text": "You seek more relics, feeling a pull towards the unknown. Each one tells a story of the past.",
+    "choices": [
+      { "text": "Discover a hidden temple", "next": 59 },
+      { "text": "Uncover ancient ruins", "next": 60 }
+    ]
+  },
+  {
+    "id": 42,
+    "text": "You return home with the relic, knowing it carries a piece of the jungle's magic with you.",
+    "choices": [
+      { "text": "Display it in your home", "next": 61 },
+      { "text": "Use it to inspire others", "next": 62 }
+    ]
+  },
+  {
+    "id": 43,
+    "text": "Inside the cave, the crystals glow with an otherworldly light. You feel a sense of peace.",
+    "choices": [
+      { "text": "Meditate among the crystals", "next": 63 },
+      { "text": "Take a crystal as a souvenir", "next": 64 }
+    ]
+  },
+  {
+    "id": 44,
+    "text": "You take a moment to appreciate the beauty around you, feeling grateful for your journey.",
+    "choices": [
+      { "text": "Capture the moment in your journal", "next": 65 },
+      { "text": "Head back to explore deeper", "next": 30 }
+    ]
+  },
+  {
+    "id": 45,
+    "text": "The statue leads you to a hidden treasure map, showing paths less traveled.",
+    "choices": [
+      { "text": "Follow the map's directions", "next": 66 },
+      { "text": "Thank the statue and explore on your own", "next": 12 }
+    ]
+  },
+  {
+    "id": 46,
+    "text": "You venture into uncharted territories, excited for the possibilities that lie ahead.",
+    "choices": [
+      { "text": "Document your discoveries", "next": 67 },
+      { "text": "Seek out local legends", "next": 68 }
+    ]
+  },
+  {
+    "id": 47,
+    "text": "You seek out other adventurers, eager to share stories and plan new journeys.",
+    "choices": [
+      { "text": "Join a new adventure team", "next": 69 },
+      { "text": "Start your own group", "next": 70 }
+    ]
+  },
+  {
+    "id": 48,
+    "text": "Your writings inspire others to explore and respect the jungle, spreading knowledge far and wide.",
+    "choices": [
+      { "text": "Publish a book of your adventures", "next": 71 },
+      { "text": "Host storytelling events", "next": 72 }
+    ]
+  },
+  {
+    "id": 49,
+    "text": "You plan a new route, eager to combine your previous knowledge with new experiences.",
+    "choices": [
+      { "text": "Set off on your next adventure", "next": 73 },
+      { "text": "Gather a group of friends to join you", "next": 74 }
+    ]
+  },
+  {
+    "id": 50,
+    "text": "Your presence helps the community thrive, creating lasting bonds and mutual respect.",
+    "choices": [
+      { "text": "Build a community center", "next": 75 },
+      { "text": "Organize a festival", "next": 76 }
+    ]
+  },
+  {
+    "id": 51,
+    "text": "You follow a new path, feeling a sense of excitement for what lies ahead.",
+    "choices": [
+      { "text": "Discover a hidden waterfall", "next": 77 },
+      { "text": "Find an ancient ruin", "next": 78 }
+    ]
+  },
+  {
+    "id": 52,
+    "text": "You interact with the magical creatures, learning their ways and stories of the jungle.",
+    "choices": [
+      { "text": "Join them in their games", "next": 79 },
+      { "text": "Ask for their guidance", "next": 80 }
+    ]
+  },
+  {
+    "id": 53,
+    "text": "Observing from a distance, you gain insight into their world without disturbing their peace.",
+    "choices": [
+      { "text": "Sketch the creatures", "next": 81 },
+      { "text": "Continue on your journey", "next": 82 }
+    ]
+  },
+  {
+    "id": 54,
+    "text": "You choose a new path, filled with promise and adventure, as the jungle unfolds before you.",
+    "choices": [
+      { "text": "Climb further into the canopy", "next": 83 },
+      { "text": "Follow a trail of flowers", "next": 84 }
+    ]
+  },
+  {
+    "id": 55,
+    "text": "You climb down and continue exploring, eager to uncover more mysteries of the jungle.",
+    "choices": [
+      { "text": "Head towards a distant mountain", "next": 85 },
+      { "text": "Follow the sound of water", "next": 86 }
+    ]
+  },
+  {
+    "id": 56,
+    "text": "Studying the scroll at home reveals ancient wisdom and lost knowledge of the jungle.",
+    "choices": [
+      { "text": "Use the knowledge to educate others", "next": 87 },
+      { "text": "Return to the jungle with new insights", "next": 88 }
+    ]
+  },
+  {
+    "id": 57,
+    "text": "Sharing the scroll with the villagers strengthens your bond and enriches their culture.",
+    "choices": [
+      { "text": "Help them document their history", "next": 89 },
+      { "text": "Work together on preserving the jungle", "next": 90 }
+    ]
+  },
+  {
+    "id": 58,
+    "text": "You continue your journey, feeling enriched by the experiences and lessons learned.",
+    "choices": [
+      { "text": "Seek out new adventures", "next": 91 }
+    ]
+  },
+  {
+    "id": 59,
+    "text": "Discovering a hidden temple reveals ancient relics and forgotten histories.",
+    "choices": [
+      { "text": "Uncover the temple's secrets", "next": 92 },
+      { "text": "Leave the relics untouched", "next": 93 }
+    ]
+  }
+]
